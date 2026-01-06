@@ -1,4 +1,4 @@
-Line 1 in second
+Master version line 1
 
 another practice
 
