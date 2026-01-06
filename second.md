@@ -1,4 +1,4 @@
-Line 1 in second
+s/^.*$/Bugfix version line 1/'
 
 another practice
 
